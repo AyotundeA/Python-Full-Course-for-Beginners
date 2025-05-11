@@ -1,0 +1,4 @@
+# Exercise 3 - Nested Loops
+for y in range(4):
+    for z in range(3):
+        print(f'({y},{z})')
