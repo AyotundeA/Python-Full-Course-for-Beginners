@@ -1,0 +1,8 @@
+# Exercise 11 - Functions, Paramaters and Keyword Arguments
+def greet_user(first_name, last_name):
+    print(f'Hello {first_name} {last_name}!')
+    print('How are you?')
+
+print("Start")
+greet_user(first_name="John", last_name="Mitch")
+print("End")
