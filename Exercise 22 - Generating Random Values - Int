@@ -1,0 +1,5 @@
+# Exercise 22 - Generating Random Values - Int
+import random
+
+for i in range(3):
+    print(random.randint(1,100))
