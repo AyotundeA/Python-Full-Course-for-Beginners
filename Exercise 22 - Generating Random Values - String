@@ -1,0 +1,6 @@
+# Exercise 22 - Generating Random Values - String
+import random
+
+members = ['John', 'Wanda', 'Bob', 'Mosh']
+leader = random.choice(members)
+print(leader)
